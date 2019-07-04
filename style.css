@@ -1,0 +1,16 @@
+#intro{
+    color: blueviolet;
+    font-size: 36px;
+    text-align: center;
+}
+
+#intro1{
+    background-color: rgba(0, 0, 0, 0.671);
+    color: rgb(120, 37, 202);
+    font-size: 126px;
+    margin: 0vh 15vw;
+    width: 70vw;
+    text-align: center;
+    border-radius: 25px;
+    box-shadow: 7px 5px 1px rgba(0, 0, 0, 0.781);
+};
