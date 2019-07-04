@@ -5,4 +5,4 @@ i have downloaded the star from [here](https://www.google.com/url?sa=i&source=im
 
 i have used p5.js library
 
-made with the help of my brother @XinYaanZyoy
+made with the help of my brother @[XinYaanZyoy](https://github.com/XinYaanZyoy)
